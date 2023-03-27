@@ -1,2 +1,5 @@
 # Helping-Humboldt-School
-The Helping Humboldt Learning Center is a community-based organization that provides academic support and resources to students in Humboldt County, California. The center's mission is to help students achieve their academic goals. One of the core values of the Helping Humboldt Learning Center is to create a supportive and inclusive learning environment. The center is committed to creating a safe and welcoming space for students of all backgrounds, cultures, and identities. The Helping Humboldt Learning Center is staffed by experienced educators who are passionate about helping students succeed. The center also relies on the support of volunteers from the local community who donate their time and expertise to help students achieve their academic goals. 
+The Learning Center is an academic support and educational resource to the community in Humboldt County, California. The mission is to help the community achieve their academic goals. One of the core values of the Learning Center is to create a supportive and inclusive learning environment. The center is committed to creating a safe and welcoming space for students of all backgrounds, cultures, and identities. The center also relies on the support of volunteers from the local community who donate their time and expertise to help students achieve their academic goals. 
+
+
+
